@@ -1,20 +1,27 @@
 # SioApi
   Navigator module for making API requests and controlling the responses.
 ## Install
+
   ```bash
     npm install sioapi
   ```
+
 ## Import
+
   Bundle
-    ```javascript
-    import SioApi from "sioapi";
-    ```
+
+```javascript
+import SioApi from "sioapi";
+```
+
   CDN
 
-    ```javascript
-    import SioApi from "https://unpkg/sioapi";
-    ```
+```javascript
+import SioApi from "https://unpkg/sioapi";
+```
+
 ## API
+
 Creates a new SioApi Object. 
 
 This module extends [SioEvents](https://github.com/empirreamm/SioEvents).

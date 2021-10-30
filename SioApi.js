@@ -273,4 +273,4 @@ class SioApi extends SioEvents{
     return this.getService("").delete(subUrl,data,options);
   }
 }
-export default SioApi;|
+export default SioApi;
