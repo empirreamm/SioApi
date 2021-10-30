@@ -1,0 +1,27 @@
+{
+  "name": "sioapi",
+  "version": "1.0.0",
+  "description": "Module for making API requests",
+  "main": "SioApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/empirreamm/SioApi.git"
+  },
+  "keywords": [
+    "SIO",
+    "API",
+    "API",
+    "client",
+    "client"
+  ],
+  "author": "SIOrbita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/empirreamm/SioApi/issues"
+  },
+  "homepage": "https://github.com/empirreamm/SioApi#readme",
+  "type": "module"
+}
