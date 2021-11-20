@@ -17,7 +17,7 @@ import SioApi from "sioapi";
   CDN
 
 ```javascript
-import SioApi from "https://unpkg/sioapi";
+import SioApi from "https://unpkg.com/sioapi";
 ```
 
 ## API

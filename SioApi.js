@@ -150,7 +150,7 @@ class Service extends SioEvents{
     }else if(typeof suburl=="string"){
       suburl=suburl.replace(/^\//,"").replace(/\/$/,"");
       suburl="/"+suburl;
-      subUrl=subUrl.replace(/\/\//,"");
+      suburl=suburl.replace(/\/\//,"");
     }else{
       suburl="";
     }
@@ -182,7 +182,7 @@ class Service extends SioEvents{
     }else if(typeof suburl=="string"){
       suburl=suburl.replace(/^\//,"").replace(/\/$/,"");
       suburl="/"+suburl;
-      subUrl=subUrl.replace(/\/\//,"");
+      suburl=suburl.replace(/\/\//,"");
     }else{
       suburl="";
     }
@@ -214,7 +214,7 @@ class Service extends SioEvents{
     }else if(typeof suburl=="string"){
       suburl=suburl.replace(/^\//,"").replace(/\/$/,"");
       suburl="/"+suburl;
-      subUrl=subUrl.replace(/\/\//,"");
+      suburl=suburl.replace(/\/\//,"");
     }else{
       suburl="";
     }
